@@ -62,7 +62,7 @@ public class baii2 {
     public static void nhap()
     {
         System.out.print("Nhap n : ") ; 
-        int n ; 
+        //int n ; 
         n = sc.nextInt() ; 
         a = new int[n] ; 
         for(int i=0;i<n;i++)
@@ -112,7 +112,7 @@ public class baii2 {
         System.out.print("mang dao nghuoc : ") ; 
         for(int i=n-1;i>=0;i--)
         {
-            System.out.print(a[i] + ' ' ) ; 
+            System.out.print(a[i] + " " ) ; 
         }
         System.out.println();
     }
