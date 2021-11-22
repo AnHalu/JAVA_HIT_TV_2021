@@ -6,17 +6,19 @@ package cau2;
 
 import java.util.ArrayList ;
 import java.util.Scanner ; 
+import java.util.Collection;
+import java.util.Collections;
 /**
  *
  * @author antsh
  */
 public class cau2 {
     
-    Scanner sc = new Scanner(System.in) ;
-    public ArrayList<Book> book = new ArrayList<>() ;
+    public static Scanner sc = new Scanner(System.in) ;
+    public static ArrayList<Book> bk = new ArrayList<>() ;
     public static void main(String [] args) {
         int x;
-        Scanner sc = new Scanner(System.in) ;
+        //Scanner sc = new Scanner(System.in) ;
         do 
         {
             System.out.println("============================MENU=====================");
@@ -47,7 +49,15 @@ public class cau2 {
     public static void addbook() {
         Book A = new Book() ;
         A.input();
-        A.output();
+       // A.output();
+       bk.add(A) ;
+       
+    }
+    public static void editbook() {
+        System.out.print("Nhap id can edit : ");
+        int id ;
+        id = sc.nextInt();
+        
     }
 }
 
