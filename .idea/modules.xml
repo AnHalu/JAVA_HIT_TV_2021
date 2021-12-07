@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Buoi2/Buoi2.iml" filepath="$PROJECT_DIR$/Buoi2/Buoi2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi3/Buoi3.iml" filepath="$PROJECT_DIR$/Buoi3/Buoi3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi4/Buoi4.iml" filepath="$PROJECT_DIR$/Buoi4/Buoi4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi5/Buoi5.iml" filepath="$PROJECT_DIR$/Buoi5/Buoi5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_HIT_TV_2021.iml" filepath="$PROJECT_DIR$/JAVA_HIT_TV_2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest/contest.iml" filepath="$PROJECT_DIR$/contest/contest.iml" />
+    </modules>
+  </component>
+</project>
